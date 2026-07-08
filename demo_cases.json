@@ -1,0 +1,32 @@
+[
+  {
+    "id": "hospice_nav",
+    "group": "weiguang-anning",
+    "title": "hospice resource",
+    "text": "请问谁知道沈阳有没有好的临终关怀病房吗？家里老人情况不太好，我们想提前了解一下，但不知道从哪里查才靠谱。"
+  },
+  {
+    "id": "caregiver_burnout",
+    "group": "treatment-family",
+    "title": "caregiver overload",
+    "text": "化疗小状况不断，我天天哭，灾难化想象停不下来，抗抑郁药在吃但感觉没用。离不开病人，一走就心慌，说明书上的维持剂量不知道是不是不够。"
+  },
+  {
+    "id": "existential",
+    "group": "treatment-family",
+    "title": "existential anxiety",
+    "text": "我不想为死亡做准备，因为舍不得老婆孩子。我知道我老婆会痛不欲生。道理都懂，但就是控制不住会怨为什么是我。"
+  },
+  {
+    "id": "comparison_anxiety",
+    "group": "treatment-family",
+    "title": "comparison anxiety",
+    "text": "我很想跟这位友友请教下怎么做到的CR，看到别人好转心里又羡慕又自责，不知道我们家还能不能等到那一天。"
+  },
+  {
+    "id": "misinfo_concern",
+    "group": "treatment-family",
+    "title": "misinfo concern",
+    "text": "有人提到节食只吃芋头、还有乔布斯当年后悔治疗选择的事，群里讨论得很热烈，我有点慌，不知道该怎么看待这些信息。"
+  }
+]

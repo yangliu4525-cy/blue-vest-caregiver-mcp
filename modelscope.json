@@ -1,0 +1,15 @@
+{
+  "name": "blue-vest-caregiver-mcp",
+  "title": "蓝马甲陪护者护航 MCP",
+  "version": "0.1.0",
+  "license": "MIT",
+  "runtime": {
+    "type": "python",
+    "entry": "mcp_server.py",
+    "python_version": "3.10"
+  },
+  "studio": {
+    "entry": "app.py",
+    "framework": "gradio"
+  }
+}
